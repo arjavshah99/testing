@@ -1,0 +1,105 @@
+altair                    4.1.0                    pypi_0    pypi
+argon2-cffi               20.1.0           py38h2bbff1b_1
+astor                     0.8.1                    pypi_0    pypi
+async_generator           1.10               pyhd3eb1b0_0
+attrs                     20.3.0             pyhd3eb1b0_0
+backcall                  0.2.0              pyhd3eb1b0_0
+base58                    2.1.0                    pypi_0    pypi
+bleach                    3.3.0              pyhd3eb1b0_0
+blinker                   1.4                      pypi_0    pypi
+ca-certificates           2021.1.19            haa95532_1
+cachetools                4.2.1                    pypi_0    pypi
+certifi                   2020.12.5        py38haa95532_0
+cffi                      1.14.5           py38hcd4344a_0
+chardet                   4.0.0                    pypi_0    pypi
+click                     7.1.2                    pypi_0    pypi
+colorama                  0.4.4              pyhd3eb1b0_0
+decorator                 4.4.2              pyhd3eb1b0_0
+defusedxml                0.7.1              pyhd3eb1b0_0
+docopt                    0.6.2                    pypi_0    pypi
+entrypoints               0.3                      pypi_0    pypi
+gitdb                     4.0.5                    pypi_0    pypi
+gitpython                 3.1.14                   pypi_0    pypi
+idna                      2.10                     pypi_0    pypi
+importlib-metadata        3.7.3            py38haa95532_1
+importlib_metadata        3.7.3                hd3eb1b0_1
+ipykernel                 5.5.0                    pypi_0    pypi
+ipython                   7.21.0           py38hd4e2768_0
+ipython_genutils          0.2.0              pyhd3eb1b0_1
+ipywidgets                7.6.3                    pypi_0    pypi
+jedi                      0.18.0                   pypi_0    pypi
+jinja2                    2.11.3             pyhd3eb1b0_0
+jsonschema                3.2.0                      py_2
+jupyter-client            6.1.12                   pypi_0    pypi
+jupyter_client            6.1.7                      py_0
+jupyter_core              4.7.1            py38haa95532_0
+jupyterlab-widgets        1.0.0                    pypi_0    pypi
+jupyterlab_pygments       0.1.2                      py_0
+libsodium                 1.0.18               h62dcd97_0
+m2w64-gcc-libgfortran     5.3.0                         6
+m2w64-gcc-libs            5.3.0                         7
+m2w64-gcc-libs-core       5.3.0                         7
+m2w64-gmp                 6.1.0                         2
+m2w64-libwinpthread-git   5.0.0.4634.697f757               2
+markupsafe                1.1.1            py38he774522_0
+mistune                   0.8.4           py38he774522_1000
+msys2-conda-epoch         20160418                      1
+nbclient                  0.5.3              pyhd3eb1b0_0
+nbconvert                 6.0.7                    py38_0
+nbformat                  5.1.2              pyhd3eb1b0_1
+nest-asyncio              1.5.1              pyhd3eb1b0_0
+notebook                  6.3.0                    pypi_0    pypi
+numpy                     1.20.1                   pypi_0    pypi
+openssl                   1.1.1j               h2bbff1b_0
+packaging                 20.9               pyhd3eb1b0_0
+pandas                    1.2.3                    pypi_0    pypi
+pandoc                    2.12                 haa95532_0
+pandocfilters             1.4.3            py38haa95532_1
+parso                     0.8.1              pyhd3eb1b0_0
+pickleshare               0.7.5           pyhd3eb1b0_1003
+pillow                    8.1.2                    pypi_0    pypi
+pip                       21.0.1           py38haa95532_0
+pipreqs                   0.4.10                   pypi_0    pypi
+prometheus_client         0.9.0              pyhd3eb1b0_0
+prompt-toolkit            3.0.18                   pypi_0    pypi
+protobuf                  3.15.6                   pypi_0    pypi
+pyarrow                   3.0.0                    pypi_0    pypi
+pycparser                 2.20                       py_2
+pydeck                    0.6.1                    pypi_0    pypi
+pygments                  2.8.1              pyhd3eb1b0_0
+pyparsing                 2.4.7              pyhd3eb1b0_0
+pyrsistent                0.17.3           py38he774522_0
+python                    3.8.8                hdbf39b2_4
+python-dateutil           2.8.1              pyhd3eb1b0_0
+pytz                      2021.1                   pypi_0    pypi
+pywin32                   300                      pypi_0    pypi
+pywinpty                  0.5.7                    py38_0
+pyzmq                     22.0.3                   pypi_0    pypi
+requests                  2.25.1                   pypi_0    pypi
+send2trash                1.5.0              pyhd3eb1b0_1
+setuptools                52.0.0           py38haa95532_0
+six                       1.15.0           py38haa95532_0
+smmap                     3.0.5                    pypi_0    pypi
+sqlite                    3.35.2               h2bbff1b_0
+streamlit                 0.79.0                   pypi_0    pypi
+terminado                 0.9.3                    pypi_0    pypi
+testpath                  0.4.4              pyhd3eb1b0_0
+toml                      0.10.2                   pypi_0    pypi
+toolz                     0.11.1                   pypi_0    pypi
+tornado                   6.1              py38h2bbff1b_0
+traitlets                 5.0.5              pyhd3eb1b0_0
+tzlocal                   2.1                      pypi_0    pypi
+urllib3                   1.26.4                   pypi_0    pypi
+validators                0.18.2                   pypi_0    pypi
+vc                        14.2                 h21ff451_1
+vs2015_runtime            14.27.29016          h5e58377_2
+watchdog                  2.0.2                    pypi_0    pypi
+wcwidth                   0.2.5                      py_0
+webencodings              0.5.1                    pypi_0    pypi
+wheel                     0.36.2             pyhd3eb1b0_0
+widgetsnbextension        3.5.1                    pypi_0    pypi
+wincertstore              0.2                      py38_0
+winpty                    0.4.3                         4
+yarg                      0.1.9                    pypi_0    pypi
+zeromq                    4.3.3                ha925a31_3
+zipp                      3.4.1              pyhd3eb1b0_0
